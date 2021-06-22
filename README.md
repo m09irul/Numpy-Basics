@@ -26,3 +26,8 @@ np.nan in set([np.nan])<br>
 18. Create a 5x5 matrix with values 1,2,3,4 just below the diagonal (★☆☆)
 19. Create a 8x8 matrix and fill it with a checkerboard pattern (★☆☆)
 20. Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element? (★☆☆)
+21. Create a checkerboard 8x8 matrix using the tile function (★☆☆)
+22. Normalize a 5x5 random matrix (★☆☆)
+23. Create a custom dtype that describes a color as four unsigned bytes (RGBA) (★☆☆)
+24. Multiply a 5x3 matrix by a 3x2 matrix (real matrix product) (★☆☆)
+25. Given a 1D array, negate all elements which are between 3 and 8, in place. (★☆☆)
