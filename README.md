@@ -16,13 +16,13 @@
 14. Create a random vector of size 30 and find the mean value (★☆☆)
 15. Create a 2d array with 1 on the border and 0 inside (★☆☆)
 16. How to add a border (filled with 0's) around an existing array? (★☆☆)
-17. What is the result of the following expression? (★☆☆)
-0 * np.nan
-np.nan == np.nan
-np.inf > np.nan
-np.nan - np.nan
-np.nan in set([np.nan])
-0.3 == 3 * 0.1
+17. What is the result of the following expression? (★☆☆)<br>
+0 * np.nan<br>
+np.nan == np.nan<br>
+np.inf > np.nan<br>
+np.nan - np.nan<br>
+np.nan in set([np.nan])<br>
+0.3 == 3 * 0.1<br>
 18. Create a 5x5 matrix with values 1,2,3,4 just below the diagonal (★☆☆)
 19. Create a 8x8 matrix and fill it with a checkerboard pattern (★☆☆)
 20. Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element? (★☆☆)
