@@ -117,3 +117,12 @@ np.sqrt(-1) == np.emath.sqrt(-1)<br>
 80. Consider an arbitrary array, write a function that extract a subpart with a fixed shape and centered on a given element (pad with a fill value when necessary) (★★★)
 81. Consider an array Z = [1,2,3,4,5,6,7,8,9,10,11,12,13,14], how to generate an array R = [[1,2,3,4], [2,3,4,5], [3,4,5,6], ..., [11,12,13,14]]? (★★★)
 82. Compute a matrix rank (★★★)
+83. How to find the most frequent value in an array?
+84. Extract all the contiguous 3x3 blocks from a random 10x10 matrix (★★★)
+85. Create a 2D array subclass such that Z[i,j] == Z[j,i] (★★★)
+86. Consider a set of p matrices wich shape (n,n) and a set of p vectors with shape (n,1). How to compute the sum of of the p matrix products at once? (result has shape (n,1)) (★★★)
+87. Consider a 16x16 array, how to get the block-sum (block size is 4x4)? (★★★)
+88. How to implement the Game of Life using numpy arrays? (★★★)
+89. How to get the n largest values of an array (★★★)
+90. Given an arbitrary number of vectors, build the cartesian product (every combinations of every item) (★★★)
+91. How to create a record array from a regular array? (★★★)
