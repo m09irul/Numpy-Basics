@@ -126,3 +126,12 @@ np.sqrt(-1) == np.emath.sqrt(-1)<br>
 89. How to get the n largest values of an array (★★★)
 90. Given an arbitrary number of vectors, build the cartesian product (every combinations of every item) (★★★)
 91. How to create a record array from a regular array? (★★★)
+92. Consider a large vector Z, compute Z to the power of 3 using 3 different methods (★★★)
+93. Consider two arrays A and B of shape (8,3) and (2,2). How to find rows of A that contain elements of each row of B regardless of the order of the elements in B? (★★★)
+94. Considering a 10x3 matrix, extract rows with unequal values (e.g. [2,2,3]) (★★★)
+95. Convert a vector of ints into a matrix binary representation (★★★)
+96. Given a two dimensional array, how to extract unique rows? (★★★)
+97. Considering 2 vectors A & B, write the einsum equivalent of inner, outer, sum, and mul function (★★★)
+98. Considering a path described by two vectors (X,Y), how to sample it using equidistant samples (★★★)?
+99. Given an integer n and a 2D array X, select from X the rows which can be interpreted as draws from a multinomial distribution with n degrees, i.e., the rows which only contain integers and which sum to n. (★★★)
+100. Compute bootstrapped 95% confidence intervals for the mean of a 1D array X (i.e., resample the elements of an array with replacement N times, compute the mean of each sample, and then compute percentiles over the means). (★★★)
